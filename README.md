@@ -17,4 +17,4 @@ Este projeto implementa um display numérico usando LEDs WS2812B controlados por
 --> LED de status piscando <br>
 --> Matriz de LEDs controlada via PIO <br>
 
-Link do vídeo - código + funcionamento do projeto: https://drive.google.com/file/d/1C3rE8N6ZAcZIcBmapKhLazRTFZNtH4Y-/view?usp=sharing
+(https://drive.google.com/file/d/1UA_pYEjO_sUmx1Q1lzgMVAm9JVS6vjmv/view?usp=sharing)
